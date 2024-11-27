@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+body{
+  background-color: gold;
+}
+.button{
+  background-color: crimson;
+  color: black;
+}
+.text{
+  color: blue;
+  
+}
+.text2{
+  color: coral;
+}
